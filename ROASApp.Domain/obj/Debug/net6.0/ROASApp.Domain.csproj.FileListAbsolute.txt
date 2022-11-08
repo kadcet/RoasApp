@@ -1,0 +1,15 @@
+C:\Users\KADIR\source\repos\Coder\ROASApplication\ROASApp.Domain\bin\Debug\net6.0\ROASApp.Domain.deps.json
+C:\Users\KADIR\source\repos\Coder\ROASApplication\ROASApp.Domain\bin\Debug\net6.0\ROASApp.Domain.dll
+C:\Users\KADIR\source\repos\Coder\ROASApplication\ROASApp.Domain\bin\Debug\net6.0\ROASApp.Domain.pdb
+C:\Users\KADIR\source\repos\Coder\ROASApplication\ROASApp.Domain\obj\Debug\net6.0\ROASApp.Domain.csproj.AssemblyReference.cache
+C:\Users\KADIR\source\repos\Coder\ROASApplication\ROASApp.Domain\obj\Debug\net6.0\ROASApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KADIR\source\repos\Coder\ROASApplication\ROASApp.Domain\obj\Debug\net6.0\ROASApp.Domain.AssemblyInfoInputs.cache
+C:\Users\KADIR\source\repos\Coder\ROASApplication\ROASApp.Domain\obj\Debug\net6.0\ROASApp.Domain.AssemblyInfo.cs
+C:\Users\KADIR\source\repos\Coder\ROASApplication\ROASApp.Domain\obj\Debug\net6.0\ROASApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\KADIR\source\repos\Coder\ROASApplication\ROASApp.Domain\obj\Debug\net6.0\ROASApp.Domain.dll
+C:\Users\KADIR\source\repos\Coder\ROASApplication\ROASApp.Domain\obj\Debug\net6.0\refint\ROASApp.Domain.dll
+C:\Users\KADIR\source\repos\Coder\ROASApplication\ROASApp.Domain\obj\Debug\net6.0\ROASApp.Domain.pdb
+C:\Users\KADIR\source\repos\Coder\ROASApplication\ROASApp.Domain\obj\Debug\net6.0\ref\ROASApp.Domain.dll
+C:\Users\KADIR\source\repos\Coder\ROASApplication\ROASApp.Domain\bin\Debug\net6.0\ROASApp.Data.IO.dll
+C:\Users\KADIR\source\repos\Coder\ROASApplication\ROASApp.Domain\bin\Debug\net6.0\ROASApp.Data.IO.pdb
+C:\Users\KADIR\source\repos\Coder\ROASApplication\ROASApp.Domain\obj\Debug\net6.0\ROASApp.Domain.csproj.CopyComplete

@@ -1,0 +1,12 @@
+C:\Users\KADIR\source\repos\Coder\ROASApplication\ROASApp.Data.IO\bin\Debug\net6.0\ROASApp.Data.IO.deps.json
+C:\Users\KADIR\source\repos\Coder\ROASApplication\ROASApp.Data.IO\bin\Debug\net6.0\ROASApp.Data.IO.dll
+C:\Users\KADIR\source\repos\Coder\ROASApplication\ROASApp.Data.IO\bin\Debug\net6.0\ROASApp.Data.IO.pdb
+C:\Users\KADIR\source\repos\Coder\ROASApplication\ROASApp.Data.IO\obj\Debug\net6.0\ROASApp.Data.IO.csproj.AssemblyReference.cache
+C:\Users\KADIR\source\repos\Coder\ROASApplication\ROASApp.Data.IO\obj\Debug\net6.0\ROASApp.Data.IO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KADIR\source\repos\Coder\ROASApplication\ROASApp.Data.IO\obj\Debug\net6.0\ROASApp.Data.IO.AssemblyInfoInputs.cache
+C:\Users\KADIR\source\repos\Coder\ROASApplication\ROASApp.Data.IO\obj\Debug\net6.0\ROASApp.Data.IO.AssemblyInfo.cs
+C:\Users\KADIR\source\repos\Coder\ROASApplication\ROASApp.Data.IO\obj\Debug\net6.0\ROASApp.Data.IO.csproj.CoreCompileInputs.cache
+C:\Users\KADIR\source\repos\Coder\ROASApplication\ROASApp.Data.IO\obj\Debug\net6.0\ROASApp.Data.IO.dll
+C:\Users\KADIR\source\repos\Coder\ROASApplication\ROASApp.Data.IO\obj\Debug\net6.0\refint\ROASApp.Data.IO.dll
+C:\Users\KADIR\source\repos\Coder\ROASApplication\ROASApp.Data.IO\obj\Debug\net6.0\ROASApp.Data.IO.pdb
+C:\Users\KADIR\source\repos\Coder\ROASApplication\ROASApp.Data.IO\obj\Debug\net6.0\ref\ROASApp.Data.IO.dll

@@ -1,0 +1,1 @@
+[{"reklamNo":1,"reklamKanali":"twitter","reklamMaliyeti":80000,"birimFiyat":80,"satisAdedi":80},{"reklamNo":3,"reklamKanali":"facebook","reklamMaliyeti":95000,"birimFiyat":5,"satisAdedi":5}]
